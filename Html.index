@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>A Tiger in the Zoo - Seminar by Ezhil</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Ubuntu&display=swap');
+
+    body {
+      background: linear-gradient(to bottom right, #fff8e1, #ffe0b2);
+      font-family: 'Merriweather', serif;
+      padding: 30px;
+      color: #3e2723;
+    }
+
+    h1 {
+      color: #e65100;
+      text-align: center;
+      font-size: 40px;
+      font-family: 'Ubuntu', sans-serif;
+      margin-bottom: 10px;
+    }
+
+    .content {
+      max-width: 950px;
+      margin: auto;
+      background: #fff3e0;
+      padding: 35px;
+      border-radius: 20px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+      border: 2px solid #ff9800;
+    }
+
+    .details {
+      font-size: 17px;
+      text-align: center;
+      margin-bottom: 30px;
+      background-color: #ffe0b2;
+      padding: 15px;
+      border-left: 6px solid #e65100;
+      border-radius: 12px;
+      font-family: 'Ubuntu', sans-serif;
+    }
+
+    p {
+      line-height: 1.8;
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+
+    iframe {
+      width: 100%;
+      height: 500px;
+      border: none;
+      margin-top: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <h1>🐅 A Tiger in the Zoo</h1>
+    <div class="details">
+      <p><strong>Presented by:</strong> Ezhil</p>
+      <p><strong>Class:</strong> 10 (Section A)</p>
+      <p><strong>School:</strong> Chettinadu Public School</p>
+      <p><strong>Class Teacher:</strong> Menaga Ma’am</p>
+    </div>
+
+    <p>
+      Good morning everyone,<br>
+      Respected teachers and my dear friends,
+    </p>
+    <p>
+      Today, I stand before you to talk about a powerful and majestic animal – <strong>the tiger</strong>, especially the one we often see in zoos.
+    </p>
+    <p>
+      The tiger is known as the <strong>national animal of India</strong>. It symbolizes strength, courage, and grace. But have you ever wondered what a tiger feels like when it is locked up in a cage, far away from the wild forest where it truly belongs?
+    </p>
+    <p>
+      In the poem <strong>"A Tiger in the Zoo"</strong> by <em>Leslie Norris</em>, we see two sides of the tiger’s life – one in the wild and one in the zoo. In the wild, the tiger roams freely in the jungle. But in the zoo, it walks silently in a small cage, with no freedom and no thrill of the forest.
+    </p>
+    <p>
+      This poem teaches us an important lesson: <strong>Every creature deserves to live in its natural habitat</strong>. Caging animals may protect them, but it also takes away their freedom.
+    </p>
+    <p>
+      To conclude,<br>
+      The tiger in the zoo may look safe, but it is <strong>not free</strong>.<br>
+      Let us respect wildlife and protect nature.
+    </p>
+    <p><strong>Thank you!</strong></p>
+
+    <!-- 👇 Replace this with your actual Google Drive Embed PPT link -->
+    <iframe src="https://docs.google.com/presentation/d/e/YOUR_EMBED_LINK_HERE/embed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
+  </div>
+</body>
+</html>
